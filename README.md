@@ -1,2 +1,2 @@
 # Dr.-Pocket
-This is healthcare mobile application where one can save his precription and other health records also book appointment with desired doctor. The project is done with java language under android studio platform and the project is still on the process. To run this file download it then run on android studio
+This is a healthcare mobile application where one can save his prescription and other health records and  book appointments with the  desired doctor. The project is done with Java language under the Android studio platform and is still in process. To run this file download it then run it on Android studio 
